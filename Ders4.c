@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Karar Yapıları */
+/* Karar YapÄ±larÄ± */
 
 int main() 
 
