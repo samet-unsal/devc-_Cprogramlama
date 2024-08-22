@@ -28,7 +28,7 @@ int main()
 	}
 	else if (ort >=70 && ort <80)
 	{
-		printf("Tebrikler C ile geçtiniz.");
+		printf("Tebrikler C ile geÃ§tiniz.");
 	}
 	else if (ort >=60 && ort <70)
 	{
