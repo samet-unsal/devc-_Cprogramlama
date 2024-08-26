@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Döngü Yapıları */
+/* DÃ¶ngÃ¼ YapÃ½larÃ½ */
 
 int main() 
 
@@ -13,7 +13,7 @@ int main()
 	
 	if (sayi == 0 || sayi == 1)
 		{
-			printf("0 ve 1'in faktöriyeli 1'dir");
+			printf("0 ve 1'in faktÃ¶riyeli 1'dir");
 		}
 	
 	else
