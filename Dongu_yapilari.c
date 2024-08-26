@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Döngüler*/
+/* DÃ¶ngÃ¼ler*/
 
 int main()
 {
@@ -9,7 +9,7 @@ int main()
 	printf("Lutfen Bir Sayi Giriniz:");
 	scanf("%d",&sayi);
 	
-	for(i=0;i<=sayi;i++)//for(baþlangýç;koþul;artýþ v eya azalýþ)
+	for(i=0;i<=sayi;i++)//for(baÃ¾langÃ½Ã§;koÃ¾ul;artÃ½Ã¾ v eya azalÃ½Ã¾)
 	{
 		toplam=toplam+i;
 	}
