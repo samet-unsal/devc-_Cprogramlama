@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* 5 adet öğrencinin 3 adet notunu alarak her bir öğrencinin not ortalamasını hesaplayın */
+/* 5 adet Ã¶ÄŸrencinin 3 adet notunu alarak her bir Ã¶ÄŸrencinin not ortalamasÄ±nÄ± hesaplayÄ±n */
 
 int main() 
 {	
