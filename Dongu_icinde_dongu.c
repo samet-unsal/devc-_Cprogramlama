@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Kullanıcıdan 5 adet sayı alın ve bu sayıların faktöriyelini ekrana yazdırın
-Kullanıcı negatif değer girdiğinde uyarı verip döngü sonlansın */
+/* KullanÄ±cÄ±dan 5 adet sayÄ± alÄ±n ve bu sayÄ±larÄ±n faktÃ¶riyelini ekrana yazdÄ±rÄ±n
+KullanÄ±cÄ± negatif deÄŸer girdiÄŸinde uyarÄ± verip dÃ¶ngÃ¼ sonlansÄ±n */
 
 
 int main()
