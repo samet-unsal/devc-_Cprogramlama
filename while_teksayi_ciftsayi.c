@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Kullanıcıdan alınan sayıya kadar olan tek ve çift sayıların toplamını while döngüsü ile ekrana yazdırma */
+/* KullanÄ±cÄ±dan alÄ±nan sayÄ±ya kadar olan tek ve Ã§ift sayÄ±larÄ±n toplamÄ±nÄ± while dÃ¶ngÃ¼sÃ¼ ile ekrana yazdÄ±rma */
 
 int main()
 {
