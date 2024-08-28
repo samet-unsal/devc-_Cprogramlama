@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Diziler takım puanı ornegi */
+/* Diziler takÃ½m puanÃ½ ornegi */
 
 int main() 
 {
