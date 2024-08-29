@@ -9,14 +9,14 @@ float toplam(float b[]);
 int main() 
 {
 	int dizi[]={1,3,5,7};
-	DIZILER(dizi);//dizinin ismini yazsak yeter [] iþaretini kullanmamýza gerek yok.
+	DIZILER(dizi);//dizinin ismini yazsak yeter [] iÃ¾aretini kullanmamÃ½za gerek yok.
 	
 	float sayilar[]={1.1,2.2,3.3,4.4};
 	printf("Sayilarin toplami:%.2f",toplam(sayilar));
 	return 0;
 }
 
-int DIZILER(int a[])//tüm diziyi gönderiyoruz.
+int DIZILER(int a[])//tÃ¼m diziyi gÃ¶nderiyoruz.
 {
 	int i;
 	for (i=0;i<4;i++)
