@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /* Pointer ve diziler */
-	//int a[5] buradaki a, dizinin ilk elemanının adresini tutar. ilk elemana atama yaparken dizinin adını kullanabiliriz.//
-	/*i bir tam sayı olmak üzere, kutle[i];
+	//int a[5] buradaki a, dizinin ilk elemanÄ±nÄ±n adresini tutar. ilk elemana atama yaparken dizinin adÄ±nÄ± kullanabiliriz.//
+	/*i bir tam sayÄ± olmak Ã¼zere, kutle[i];
 	ile *(p+1);
-	aynı anlamdadır. Bunun sebeli, p göstericisi kutle dizisinin başlangıc adresini tutmuş olmasıdır. p+1 işlemi ile i+1.elemanın adresi ve *(p+1) ile de bu adresteki değer hesaplanır.*/
+	aynÄ± anlamdadÄ±r. Bunun sebeli, p gÃ¶stericisi kutle dizisinin baÅŸlangÄ±c adresini tutmuÅŸ olmasÄ±dÄ±r. p+1 iÅŸlemi ile i+1.elemanÄ±n adresi ve *(p+1) ile de bu adresteki deÄŸer hesaplanÄ±r.*/
 	
 double ortalama(double a[5],int n);
 int main()
@@ -25,7 +25,7 @@ double ortalama(double a[5],int n)
 	double top=0,o;
 	for (i=0;i<n;i++)
 	{
-		top+=*(parabalar+i);//adresleri üzerinden değerleri buluyoruz. dizinin ismi direkt ilk elemanın adresine atandığı için *(değişken adı+i) ile değerlerini toplayabiliriz.
+		top+=*(parabalar+i);//adresleri Ã¼zerinden deÄŸerleri buluyoruz. dizinin ismi direkt ilk elemanÄ±n adresine atandÄ±ÄŸÄ± iÃ§in *(deÄŸiÅŸken adÄ±+i) ile deÄŸerlerini toplayabiliriz.
 	}*/
 	
 	/*double *parabalar;
