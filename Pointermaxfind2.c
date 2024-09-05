@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Bir diziyi maxfind isimli fonksiyona adres ile gönderip dizideki en büyük sayyyy ana fonksiyonda pointer olarak döndüren programı yazyn  */
+/* Adresleri kullanarak indis bulma  */
 int maxfind(int *a,int uzunluk);
 int main()
 {
