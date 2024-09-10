@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /* ------Struct ve Fonksiyonlar--------
-3 öğrencinin giriş fonksiyonuyla verileri alınarak orta fonksiyonuyla ortalamalar hesaplanarak yazdır fonksiyonuyla çıktı alınması 
-ogrenci adı, ogrenci no, vize, final,ödev,ortalama */
+3 Ã¶Ã°rencinin giriÃ¾ fonksiyonuyla verileri alÃ½narak orta fonksiyonuyla ortalamalar hesaplanarak yazdÃ½r fonksiyonuyla Ã§Ã½ktÃ½ alÃ½nmasÃ½ 
+ogrenci adÃ½, ogrenci no, vize, final,Ã¶dev,ortalama */
 
 struct ogrenci{
 	char o_adi[20];
@@ -22,8 +22,8 @@ int main()
 {
 	struct ogrenci o_liste[3];
 	ogrenci_kayit(o_liste,3);
-	/*ortalama(o_liste,3); ortalama fonksiyonunu veri girişi alma fonksiyonunun içinde tanımlamış olmasaydık içine göndereceğimiz struct yapısıyla 
-	ayrıca main fonksiyonu içinde tanımlamamız gerekecekti.*/
+	/*ortalama(o_liste,3); ortalama fonksiyonunu veri giriÃ¾i alma fonksiyonunun iÃ§inde tanÃ½mlamÃ½Ã¾ olmasaydÃ½k iÃ§ine gÃ¶ndereceÃ°imiz struct yapÃ½sÃ½yla 
+	ayrÃ½ca main fonksiyonu iÃ§inde tanÃ½mlamamÃ½z gerekecekti.*/
 	yazdir(o_liste,3);
 	
 	return 0;
