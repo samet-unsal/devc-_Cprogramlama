@@ -1,2 +1,2 @@
 # devc-_Cprogramlama
-devc++ IDE'si kullanarak Programlama Teemelleri Dersi örnekleri
+İGÜ - İSTKA Siber Akademi Projesi kapsamında Programlama Temelleri Dersi örnekleri bulunmaktadır.
